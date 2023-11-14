@@ -3,7 +3,7 @@ package com.example.alogtraining;
 import javafx.fxml.FXML;
 import javafx.scene.control.Label;
 
-public class elloController {
+public class HelloController {
     @FXML
     private Label welcomeText;
 
